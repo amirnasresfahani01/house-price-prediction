@@ -3,6 +3,7 @@
 ## Project Overview
 
 This project demonstrates a complete **end-to-end data science workflow** for predicting house prices using the Ames Housing dataset.
+
 ![Model Comparison](assets/model_comparison.png)
 
 The goal of this project is to build machine learning models that can estimate the sale price of a house based on different property features such as living area, overall quality, garage size, and other housing characteristics.

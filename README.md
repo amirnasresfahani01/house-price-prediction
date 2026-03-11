@@ -36,6 +36,8 @@ The objective of the model is to predict this variable using the other available
 
 ## Project Structure
 
+```
+
 house-price-prediction
 
 │
@@ -71,7 +73,7 @@ house-price-prediction
 
 │
 └── README.md
-
+```
 ---
 
 ## Data Science Workflow
